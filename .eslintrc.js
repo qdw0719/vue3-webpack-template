@@ -30,5 +30,6 @@ module.exports = {
       singleline: 'never',
       multiline: 'never'
     }]
-  }
+  },
+  plugins: ['vue', 'prettier']
 }
